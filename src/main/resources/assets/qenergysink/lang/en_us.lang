@@ -1,0 +1,34 @@
+tile.qenergysink.sink.name=Energy Acceptor
+item.qenergysink.module.low.name=Energy Acceptor Module (LV)
+item.qenergysink.module.medium.name=Energy Acceptor Module (MV)
+item.qenergysink.module.high.name=Energy Acceptor Module (HV)
+item.qenergysink.module.extreme.name=Energy Acceptor Module (EV)
+item.qenergysink.module.insane.name=Energy Acceptor Module (IV)
+qenergysink.inventory.name=Energy Acceptor
+
+qenergysink.tooltip.module.info=Allows Energy Acceptor accept energy
+qenergysink.tooltip.module.energy=Throughput: %d EU/t
+
+qenergysink.stats.current.process=%d/%d EU/t
+qenergysink.stats.current.ownership=Claimed!
+
+qenergysink.stats.total.rate=Total Process Rate: %s
+qenergysink.stats.total.energy=Total Energy Processed: %s
+
+qenergysink.stats.total.energy.unit=%s EU
+qenergysink.stats.total.energy.kilo=%s kEU
+qenergysink.stats.total.energy.mega=%s MEU
+qenergysink.stats.total.energy.giga=%s GEU
+qenergysink.stats.total.energy.tera=%s TEU
+
+qenergysink.stats.total.rate.unit=%s EU/t
+qenergysink.stats.total.rate.kilo=%s kEU/t
+qenergysink.stats.total.rate.mega=%s MEU/t
+qenergysink.stats.total.rate.giga=%s GEU/t
+qenergysink.stats.total.rate.tera=%s TEU/t
+
+qenergysink.chart.name.total=Chart (Total Processed)
+qenergysink.chart.name.rate=Chart (Process Rate)
+qenergysink.chart.switch.total=Switch to rate
+qenergysink.chart.switch.rate=Switch to total
+qenergysink.chart.hover.days=%s days ago

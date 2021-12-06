@@ -1,0 +1,16 @@
+[
+    {
+      "modid": "qenergysink",
+      "name": "Energy Sink Mod",
+      "description": "",
+      "version": "${version}",
+      "mcversion": "${mcversion}",
+      "url": "",
+      "updateUrl": "",
+      "authorList": ["Quant1um"],
+      "credits": "uwu",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+]

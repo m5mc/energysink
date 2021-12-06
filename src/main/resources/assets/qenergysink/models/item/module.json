@@ -1,0 +1,38 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "qenergysink:item/level_0"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "level": 0
+      },
+      "model": "qenergysink:item/module_low"
+    },
+    {
+      "predicate": {
+        "level": 1
+      },
+      "model": "qenergysink:item/module_medium"
+    },
+    {
+      "predicate": {
+        "level": 2
+      },
+      "model": "qenergysink:item/module_high"
+    },
+    {
+      "predicate": {
+        "level": 3
+      },
+      "model": "qenergysink:item/module_extreme"
+    },
+    {
+      "predicate": {
+        "level": 4
+      },
+      "model": "qenergysink:item/module_insane"
+    }
+  ]
+}
