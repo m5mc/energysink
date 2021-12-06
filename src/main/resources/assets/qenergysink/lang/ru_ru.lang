@@ -1,0 +1,34 @@
+tile.qenergysink.sink.name=Энергутический приемник
+item.qenergysink.module.low.name=Энергетический модуль (LV)
+item.qenergysink.module.medium.name=Энергетический модуль (MV)
+item.qenergysink.module.high.name=Энергетический модуль (HV)
+item.qenergysink.module.extreme.name=Энергетический модуль (EV)
+item.qenergysink.module.insane.name=Энергетический модуль (IV)
+qenergysink.inventory.name=Энергутический приемник
+
+qenergysink.tooltip.module.info=Необходим для работы энергетического приемщика
+qenergysink.tooltip.module.energy=Пропускная способность: %d EU/t
+
+qenergysink.stats.current.process=%d/%d EU/t
+qenergysink.stats.current.ownership=Принадлежит не вам!
+
+qenergysink.stats.total.rate=Общая скорость: %s
+qenergysink.stats.total.energy=Всего энергии: %s
+
+qenergysink.stats.total.energy.unit=%s EU
+qenergysink.stats.total.energy.kilo=%s kEU
+qenergysink.stats.total.energy.mega=%s MEU
+qenergysink.stats.total.energy.giga=%s GEU
+qenergysink.stats.total.energy.tera=%s TEU
+
+qenergysink.stats.total.rate.unit=%s EU/t
+qenergysink.stats.total.rate.kilo=%s kEU/t
+qenergysink.stats.total.rate.mega=%s MEU/t
+qenergysink.stats.total.rate.giga=%s GEU/t
+qenergysink.stats.total.rate.tera=%s TEU/t
+
+qenergysink.chart.name.total=Статистика (Всего энергии)
+qenergysink.chart.name.rate=Статистика (бщая скорость)
+qenergysink.chart.switch.total=Перейти к статистике энергии
+qenergysink.chart.switch.rate=Перейти к статистике скорости
+qenergysink.chart.hover.days=%s дней назад
